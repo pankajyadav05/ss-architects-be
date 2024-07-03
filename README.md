@@ -20,14 +20,14 @@ Design and implement a simple Online Shopping Cart system in Java. This task sho
 
 ## Requirements:
 
-1. Create the following classes:
+### 1. Create the following classes:
 
 - Product
 - ShoppingCart
 - Customer
 - Order
 
-2. Implement the following features:
+### 2. Implement the following features:
 
 - Add products to the shopping cart
 - Remove products from the shopping cart
@@ -35,14 +35,14 @@ Design and implement a simple Online Shopping Cart system in Java. This task sho
 - Apply a simple discount (e.g., 10% off if total is above $100)
 - Create an order from the shopping cart
 
-3. Demonstrate the following OOP concepts:
+### 3. Demonstrate the following OOP concepts:
 
 - Encapsulation: Use private fields and public methods appropriately
 - Inheritance: Create at least one subclass (e.g., DiscountedProduct extends Product)
 - Polymorphism: Use method overriding in the subclass
 - Abstraction: Create at least one abstract class or interface
 
-4. Utilize the following Java features:
+### 4. Utilize the following Java features:
 
 - Collections: Use appropriate collection types (e.g., ArrayList, HashMap)
 - Enums: Create an enum for product categories or order status
